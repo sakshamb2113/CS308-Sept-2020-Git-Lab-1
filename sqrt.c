@@ -16,7 +16,7 @@ int main(int argc, char* argv[]) {
 	int input = atoi(argv[1]);
 	
 	if(input<0){
-		printf("Sqrt of %d sisis not %fi\n",input,sqrt(input*(-1)));
+		printf("Sqsdafoseifjwoenfvnfsnfksdsfs vrt sdfsdfosdfsdfasdasd %d sisis not %fi\n",input,sqrt(input*(-1)));
 		return 0;
 	}
 
